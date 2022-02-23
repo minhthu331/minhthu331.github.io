@@ -1,0 +1,38 @@
+#dang{
+    background-image: url(../image/vinbr.jpg);
+    background-size: 100% 100%;
+}
+.dangnhap{
+    margin:0 auto ;
+    box-shadow: 0 0 5px black;
+    padding: 10px;
+    width: 30%;
+    height: 60%;
+    background-color: white;
+}
+.dangnhap>h1{
+text-align: center;
+}
+.form-group{
+color:rgb(0, 0, 0);
+font-size:20px;
+}
+.form-control{
+box-shadow:0 0 3px rgb(85, 84, 84);
+}
+.dangnhapthanhcong>a{
+text-decoration: none;
+color: rgb(3, 3, 78);
+font-weight: bold;
+}
+.dangnhapthanhcong:hover{
+background-color: rgb(95, 236, 255);
+}
+.dangnhapthanhcong{
+border: 1px solid blue ;
+line-height: 40px;
+text-align: center;
+}
+.form-control:focus{
+background-color: yellow;
+}

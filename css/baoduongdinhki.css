@@ -1,0 +1,37 @@
+
+table{
+    border:3px solid rgb(0, 56, 241);
+    margin:0 auto ;
+    border-collapse: collapse;
+    text-align: center;
+    padding-top: 7%;
+}
+td {padding:10px;}
+.hangdau{
+ color: white;
+ background: rgb(151, 196, 255) ;
+ height:40px;
+}
+.hang2{
+background: rgb(72, 154, 248) ;
+height: 40px;
+} 
+.container > aside{
+    height: 68%;
+    width:100%;
+    background-color:lightgray;
+    float:right;
+    font-weight:bold;
+}
+#hv{
+    width: 100%;
+}
+.hv1{
+    float: left;
+    width: 80%;
+
+}
+.hv2{
+    float: left;
+    width: 20%;
+}

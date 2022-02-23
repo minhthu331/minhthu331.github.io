@@ -1,0 +1,35 @@
+
+.doan1{
+    float: left;
+    padding : 0px 10px;
+    }
+    .doan1>.image{
+    width:300px;
+    height:200px;
+    border-radius: 10% 10% 10% 10%;
+    }
+    .doan1>.image:hover{
+    transform: scale(0.8);
+    }
+    .doan2{
+    float: left;
+    font-size: 19px;
+    }
+    .doan3{
+    content: "";
+    display:table ;
+    clear: both;
+    }
+    .doan2>a{
+    text-decoration: none;
+    color: blue;
+    }
+    .doan2>a:hover{
+    text-decoration: underline red ;
+    }
+    .baohanh{
+        text-align: center;
+    }
+    p{
+        font-weight:bold;
+    }

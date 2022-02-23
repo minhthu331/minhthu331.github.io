@@ -1,0 +1,48 @@
+img{
+height: 15px;
+width: 15px;
+}
+.dangki{
+    margin:0 auto ;
+    box-shadow: 0 0 5px black;
+    padding: 10px;
+    width: 50%;
+    height: 100%;
+    background-color: white;
+}
+.dangnhap>h1{
+text-align: center;
+}
+.form-group{
+color:rgb(0, 0, 0);
+font-size:10px;
+}
+.form-control{
+box-shadow:0 0 3px rgb(85, 84, 84);
+}
+.dangkithanhcong{
+border: 1px solid blue ;
+line-height: 40px;
+text-align: center;
+}
+.dangkithanhcong>a{
+text-decoration: none;
+color: rgb(3, 3, 78);
+font-weight: bold;
+}
+.dangkithanhcong:hover{
+background-color: rgb(95, 236, 255);
+}
+.leftcolumn {
+    float: left;
+    width: 25%;
+    background-color: #d8e4f4 ;
+    padding-left: 20px;
+   
+}
+.rightcolumn {
+    float: right;
+    width: 75%;
+    background-image: url(../image/vin2.jpg);
+    background-size: 100% 100%;
+}

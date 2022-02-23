@@ -1,0 +1,82 @@
+
+.uudai12{
+    float:left;
+    width: 60%;
+}
+.uudai12>img{
+    width: 100%;
+    height: 300px;
+}
+.uudai13{
+    float:left;
+    width: 40%;
+}
+.uudai13>img{
+    width: 100%;
+    height: 300px;
+    padding-left: 5px;
+}
+
+.uudai12right{
+    float: right;
+    padding-top: 20px;
+}
+input[type=text] {
+    width: 500px;
+    height: 50px;
+    font-size: 16px;
+    outline:none;
+}
+button{
+    height: 50px;
+}
+.uudai2::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+.uudai3{
+    padding-top: 10px ;
+    text-align: center;
+}
+.sanpham{
+    width: 30%;
+    text-align: center;
+    box-shadow: 0 0 3px rgb(0, 0, 0);
+    border-radius: 3% 3% 3% 3%;
+    float: left;
+    margin: 10px;
+    padding: 20px;
+    background: white;
+}
+.hinhanh{
+    width: 100%;
+    height: 300px;
+    text-align: center;
+    border-radius: 3% 3% 3% 3%;
+    box-shadow: 0 0 3px rgb(3, 104, 12);
+}
+.hinhanh:hover{
+    opacity:calc(0.6);
+}
+.anh11{
+    width: 50%;
+    margin: 0 auto;
+    background-color: rgba(2, 66, 16, 0.849);
+    height: 50px;
+    font-weight:bold;
+    text-align: center;
+    padding-top: 2px;
+    border-radius: 20% 20% 20% 20% ;
+}
+.anh11>a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-weight: 100px;
+}
+.uudai3::after{
+    content: "";
+    display: table;
+    clear: both;
+    text-transform: uppercase;
+}
